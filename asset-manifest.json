@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ed24624.css",
+    "main.js": "/static/js/main.eab97ad8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/salade3.png": "/static/media/salade3.14679a73683e1db675f4.png",
+    "static/media/pb3.png": "/static/media/pb3.5adf6635d04e1e11620c.png",
+    "static/media/pate.jpeg": "/static/media/pate.9fd39cef89f51fa6e112.jpeg",
+    "static/media/salade2.png": "/static/media/salade2.cf28faac2befaae9dda5.png",
+    "static/media/platViande.png": "/static/media/platViande.5223f42149ca6dcbcca9.png",
+    "static/media/salade4.png": "/static/media/salade4.c09ccc3be4e5e419fcf3.png",
+    "static/media/pb1.png": "/static/media/pb1.1a53a723e86fc1c7255d.png",
+    "static/media/salade1.png": "/static/media/salade1.87d466b14db1ef423002.png",
+    "static/media/pb5.png": "/static/media/pb5.beb895ca829f6911428e.png",
+    "static/media/plat2.png": "/static/media/plat2.46dfa74fcf3cc7563c88.png",
+    "static/media/pb2.png": "/static/media/pb2.ecca81db0e53317fa8bd.png",
+    "static/media/Acceuil.png": "/static/media/Acceuil.93fec6489f6d1d423510.png",
+    "static/media/view1.png": "/static/media/view1.2aa42ab6c5ce8ffc4e53.png",
+    "static/media/healthy-diet-background.png": "/static/media/healthy-diet-background.f1b010e398bb037548b8.png",
+    "static/media/white-concrete-wall.png": "/static/media/white-concrete-wall.a2e297ae9f8dd71f81e9.png",
+    "static/media/fork.png": "/static/media/fork.628e53408dc54489794a.png",
+    "static/media/logo.png": "/static/media/logo.23098729bd7dac2a819e.png",
+    "static/media/kitchen.png": "/static/media/kitchen.9c2cdb333688848f3a8c.png",
+    "static/media/pb4.png": "/static/media/pb4.36550a51bdb0c19fbe52.png",
+    "static/media/san2.jpeg": "/static/media/san2.76b76456de366e265a33.jpeg",
+    "static/media/sandwiche.jpeg": "/static/media/sandwiche.341e35d3f10ae800a0da.jpeg",
+    "static/media/ardoise.jpeg": "/static/media/ardoise.2b8e1ba12f0bd0981ec9.jpeg",
+    "static/media/takeaway.png": "/static/media/takeaway.64aec65b41a5b205e6b8.png",
+    "static/media/lhorloge.png": "/static/media/lhorloge.30bae113cbf5495c578d.png",
+    "static/media/telephone.png": "/static/media/telephone.be05d22a9ebeb8d964dd.png",
+    "index.html": "/index.html",
+    "main.3ed24624.css.map": "/static/css/main.3ed24624.css.map",
+    "main.eab97ad8.js.map": "/static/js/main.eab97ad8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed24624.css",
+    "static/js/main.eab97ad8.js"
+  ]
+}
