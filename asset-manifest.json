@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d475847.css",
-    "main.js": "/static/js/main.c7faff80.js",
+    "main.css": "/static/css/main.cf88b057.css",
+    "main.js": "/static/js/main.6d5967b9.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/salade3.png": "/static/media/salade3.14679a73683e1db675f4.png",
     "static/media/pb3.png": "/static/media/pb3.5adf6635d04e1e11620c.png",
@@ -15,26 +15,32 @@
     "static/media/plat2.png": "/static/media/plat2.46dfa74fcf3cc7563c88.png",
     "static/media/pb2.png": "/static/media/pb2.ecca81db0e53317fa8bd.png",
     "static/media/Acceuil.png": "/static/media/Acceuil.93fec6489f6d1d423510.png",
-    "static/media/view1.png": "/static/media/view1.2aa42ab6c5ce8ffc4e53.png",
+    "static/media/pic1.png": "/static/media/pic1.226eb9c08d4e534297eb.png",
+    "static/media/pic2.png": "/static/media/pic2.3ab6650c0cc7c5f5158b.png",
     "static/media/healthy-diet-background.png": "/static/media/healthy-diet-background.f1b010e398bb037548b8.png",
+    "static/media/pic5.png": "/static/media/pic5.fc84ae697b8bff610738.png",
+    "static/media/pic6.png": "/static/media/pic6.97bd12e2d5471a309850.png",
+    "static/media/pic4.png": "/static/media/pic4.6b5e942613e1379330c1.png",
     "static/media/white-concrete-wall.png": "/static/media/white-concrete-wall.a2e297ae9f8dd71f81e9.png",
+    "static/media/pic3.png": "/static/media/pic3.dda6ed68dc8bd36a1e2c.png",
     "static/media/fork.png": "/static/media/fork.628e53408dc54489794a.png",
     "static/media/logo.png": "/static/media/logo.23098729bd7dac2a819e.png",
     "static/media/kitchen.png": "/static/media/kitchen.9c2cdb333688848f3a8c.png",
     "static/media/pb4.png": "/static/media/pb4.36550a51bdb0c19fbe52.png",
     "static/media/san2.jpeg": "/static/media/san2.76b76456de366e265a33.jpeg",
     "static/media/sandwiche.jpeg": "/static/media/sandwiche.341e35d3f10ae800a0da.jpeg",
+    "static/media/team.jpeg": "/static/media/team.41575a935d9f8dfc4629.jpeg",
     "static/media/ardoise.jpeg": "/static/media/ardoise.2b8e1ba12f0bd0981ec9.jpeg",
     "static/media/takeaway.png": "/static/media/takeaway.64aec65b41a5b205e6b8.png",
     "static/media/lhorloge.png": "/static/media/lhorloge.30bae113cbf5495c578d.png",
     "static/media/telephone.png": "/static/media/telephone.be05d22a9ebeb8d964dd.png",
     "index.html": "/index.html",
-    "main.1d475847.css.map": "/static/css/main.1d475847.css.map",
-    "main.c7faff80.js.map": "/static/js/main.c7faff80.js.map",
+    "main.cf88b057.css.map": "/static/css/main.cf88b057.css.map",
+    "main.6d5967b9.js.map": "/static/js/main.6d5967b9.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d475847.css",
-    "static/js/main.c7faff80.js"
+    "static/css/main.cf88b057.css",
+    "static/js/main.6d5967b9.js"
   ]
 }
